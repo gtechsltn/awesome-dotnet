@@ -1,5 +1,15 @@
 # Awesome .NET!
 
++ https://github.com/gtechsltn/awesome-dotnet
++ https://github.com/quozd/awesome-dotnet
++ https://github.com/thangchung/awesome-dotnet-core
++ https://github.com/thangchung/awesome-dotnet
++ https://github.com/NajiElKotob/Awesome-DotNET
++ https://github.com/Fedex100/awesome-dotnet-core
++ https://github.com/HongqiangWei/awesome-dotnet
++ https://github.com/jsuarezruiz/awesome-dotnet-maui
++ https://github.com/meysamhadeli/awesome-dotnet-tips
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
