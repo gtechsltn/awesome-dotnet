@@ -10,6 +10,7 @@
 + https://github.com/jsuarezruiz/awesome-dotnet-maui
 + https://github.com/meysamhadeli/awesome-dotnet-tips
 + https://github.com/JessicaBarclay/awesome-csharp
++ https://github.com/uhub/awesome-c-sharp
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml/badge.svg)](https://github.com/quozd/awesome-dotnet/actions/workflows/awesome-bot.yml)
